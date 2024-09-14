@@ -49,7 +49,7 @@
     "tailwindcss": "^3.0.24"
   },
   "name": "react-code-editor-main",
-  "description": "⚡️ A code editor that compiles and runs your code on the web. Blog: <a href=\"https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/\" target=\"__blank\">FreeCodeCamp - Build A Code IDE with React</a>",
+  "description": "⚡️ A code editor that compiles and runs your code on the web.</a>",
   "version": "1.0.0",
   "main": "postcss.config.js",
   "author": "",
